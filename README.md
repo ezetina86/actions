@@ -1,2 +1,2 @@
 # actions
-Github actions exam,ples
+GitHub actions examples
